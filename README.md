@@ -10,7 +10,6 @@ Repositorio creado para almacenar y organizar los ejercicios realizados durante 
 |-----------|-----|
 | **Java** | Programación orientada a objetos y desarrollo con Swing |
 | **NetBeans** | Entorno principal de desarrollo |
-| **Git & GitHub** | Control de versiones y respaldo en la nube |
 
 ---
 
