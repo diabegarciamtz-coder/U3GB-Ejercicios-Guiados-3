@@ -16,10 +16,6 @@ Repositorio creado para almacenar y organizar los ejercicios realizados durante 
 
 ## 📄 Ejercicios 
 
-| Ejercicio | Tema | Enlace | 
-|-----------|-------|--------|
-| Ventana básica Swing | Java / Swing |  |
-
-
-
-   git clone https://github.com/usuario/repositorio.git
+| 🌟 Ejercicio | 🧠 Tema | 🔗 Enlace |
+|--------------|---------|-----------|
+| **Ventana básica Swing** | Java / Swing | [📄 Ver ejercicio](https://github.com/diabegarciamtz-coder/U3GB-Ejercicios-Guiados-3/blob/main/Ejercicio%20Guiado%20Swing.pdf) |
