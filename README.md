@@ -1,4 +1,5 @@
-# U3GB-Ejercicios-Guiados-3# Ejercicios de Programación – UTNG
+# U3GB-Ejercicios-Guiados-3
+## Ejercicios de Programación – UTNG
 
 Repositorio creado para almacenar y organizar los ejercicios realizados durante las clases de **Estructura de Datos**.
 
@@ -18,3 +19,4 @@ Repositorio creado para almacenar y organizar los ejercicios realizados durante 
 | 🌟 Ejercicio | 🧠 Tema | 🔗 Enlace |
 |--------------|---------|-----------|
 | **Ventana básica Swing** | Java / Swing | [📄 Ver ejercicio](https://github.com/diabegarciamtz-coder/U3GB-Ejercicios-Guiados-3/blob/main/Ejercicio%20Guiado%20Swing.pdf) |
+| **Nearpod Árboles** | Nearpod | [📄 Ver ejercicio](https://github.com/diabegarciamtz-coder/U3GB-Ejercicios-Guiados-3/blob/main/Ejercicio%20de%20%20Nearpod%20%C3%81rboles.pdf) |
