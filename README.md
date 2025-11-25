@@ -20,3 +20,5 @@ Repositorio creado para almacenar y organizar los ejercicios realizados durante 
 |--------------|---------|-----------|
 | **Ventana básica Swing** | Java / Swing | [📄 Ver ejercicio](https://github.com/diabegarciamtz-coder/U3GB-Ejercicios-Guiados-3/blob/main/Ejercicio%20Guiado%20Swing.pdf) |
 | **Nearpod Árboles** | Nearpod | [📄 Ver ejercicio](https://github.com/diabegarciamtz-coder/U3GB-Ejercicios-Guiados-3/blob/main/Ejercicio%20de%20%20Nearpod%20%C3%81rboles.pdf) |
+| **Guiados Construccion de arboles** | Actividad e clase | [📄 Ver ejercicio](https://github.com/diabegarciamtz-coder/U3GB-Ejercicios-Guiados-3/blob/main/Guiados%20Construccion%20de%20arboles.pdf) |
+
