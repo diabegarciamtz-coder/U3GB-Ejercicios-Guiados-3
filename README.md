@@ -24,6 +24,7 @@ Repositorio creado para almacenar y organizar los ejercicios realizados durante 
 | **Nearpod Árboles 2.0** | Nearpod | [📄 Ver ejercicio](https://github.com/diabegarciamtz-coder/U3GB-Ejercicios-Guiados-3/blob/main/Nearpod%20%C3%A1rboles.pdf) |
 | **Nearpod Conjuntos** | Nearpod | [📄 Ver ejercicio](https://github.com/diabegarciamtz-coder/U3GB-Ejercicios-Guiados-3/blob/main/Nearpod%20conjuntos.pdf) |
 | **Mapa Mental** | Mapa Mental | [📄 Ver ejercicio](https://github.com/diabegarciamtz-coder/U3GB-Ejercicios-Guiados-3/blob/main/Mapa%20mental.pdf) |
+| **Diccionarios** | Nearpod | [📄 Ver ejercicio](https://github.com/diabegarciamtz-coder/U3GB-Ejercicios-Guiados-3/blob/main/Diccionario.pdf) |
 
 ## Codigo arboles
 
