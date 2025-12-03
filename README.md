@@ -23,6 +23,7 @@ Repositorio creado para almacenar y organizar los ejercicios realizados durante 
 | **Guiados Construccion de arboles** | Actividad de clase | [📄 Ver ejercicio](https://github.com/diabegarciamtz-coder/U3GB-Ejercicios-Guiados-3/blob/main/Guiados%20Construccion%20de%20arboles.pdf) |
 | **Nearpod Árboles 2.0** | Nearpod | [📄 Ver ejercicio](https://github.com/diabegarciamtz-coder/U3GB-Ejercicios-Guiados-3/blob/main/Nearpod%20%C3%A1rboles.pdf) |
 | **Nearpod Conjuntos** | Nearpod | [📄 Ver ejercicio](https://github.com/diabegarciamtz-coder/U3GB-Ejercicios-Guiados-3/blob/main/Nearpod%20conjuntos.pdf) |
+| **Mapa Mental** | Mapa Mental | [📄 Ver ejercicio](https://github.com/diabegarciamtz-coder/U3GB-Ejercicios-Guiados-3/blob/main/Mapa%20mental.pdf) |
 
 ## Codigo arboles
 
